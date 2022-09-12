@@ -1,0 +1,62 @@
+body{
+    width: 98vw;
+    height: 90vh;
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+    border: 1px solid black;
+    width: 300px;
+    height: 400px;
+    padding: 20px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.content{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.input{
+    width: 200px;
+    height: 30px;
+    margin: 15px;
+}
+
+.inputData{
+    width: 15px;
+    height: 30px;
+    margin: 15px;
+}
+
+.saveButton{
+    margin: 15px;
+    width: 80px;
+    height: 30px;
+    background-color: tomato;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#linhaData{
+    font-weight: bold;
+}
+
+#btnExcluir{
+    background-color: tomato;
+    margin-left: 5px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+}
