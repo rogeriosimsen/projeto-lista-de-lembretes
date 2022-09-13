@@ -114,4 +114,4 @@ function formataData(data = new Date){
   
 listar()
 formataData()
-
+alert("Atenção: na primeira chamada da API, pode ser que os dados, levem alguns segundos para serem carregados.")
