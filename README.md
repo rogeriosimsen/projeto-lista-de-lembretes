@@ -37,7 +37,7 @@ O mesmo, se encontra hospedado na plataforma do Heroku, junto com seu banco de d
 =><a href="https://project-my-notes.herokuapp.com/mynotes/listar" target="_blank">Clique aqui para acessar o link da API.</a><br>
 =><a href="https://github.com/rogeriosimsen/lembretes" target="_blank">Clique aqui para acessar o link do repositório no GitHub da API.</a><br><br>
 
-Basicamente, meu projeto é esse. Poderia ter deixado com um layout muito mais bonito, mas por questões de tempo, tive que fazer algo um pouco mais simples. Espero que gostem e 
+Basicamente, meu projeto é esse. Poderia ter deixado com um layout muito mais bonito, mais responsivo também, mas por questões de tempo, tive que fazer algo um pouco mais simples. Espero que gostem e 
 que de alguma forma, possa servir de exemplo. <br><br>
 
 Apesar de parecer simples, foi um projetinho bem desafiador hein! Achei que seria muuuuuito mais fácil de ser feito, mas quando comecei a de fato codifica-lo, me deparei 
