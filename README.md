@@ -30,7 +30,7 @@ Pode ser que você ache um pouco confuso num primeiro momento, mas garanto que c
 O front-end está hospedado no servidor da empresa Netlify, que possui planos para hospedagem gratuitos, mas com algumas limitações.<br><br>
 
 BACK-END: <br>
-em arquitetura RESTFul, foi desenvolvido uma API, para a manipulação (salvar, listar e excluir) dos lembretes.<br>
+Foi desenvolvido uma API, para a manipulação (salvar, listar e excluir) dos lembretes.<br>
 No meu back-end, também tentei explicar ao máximo cada linha do meu código, através de comentários. Pode ser que tenha ficado um código um pouco "sujo", mas minha
 ideia com esses comentários, era tentar mostrar o máximo possível da minha lógica na hora de resolver os probleminhas.
 O mesmo, se encontra hospedado na plataforma do Heroku, junto com seu banco de dados PostgreSQL.<br><br>
