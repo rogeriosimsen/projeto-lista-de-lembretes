@@ -44,6 +44,8 @@ Apesar de parecer simples, foi um projetinho bem desafiador hein! Achei que seri
 com diversos problemas no qual, não fazia nem ideia de uma possível solução. <br>
 Maaaaaaaas com muita pesquisa, persistencia e café hehehe, acredito que eu tenha desenvolvido todas as funcionalidades que foram propostas no enunciado.<br><br>
 
-Esse texto já ficou bem grande, então fico por aqui. Uma abraço a todos e até o próximo projeto.
+Isso é tudo pessoal!<br> 
+Esse texto já ficou bem grande, então fico por aqui.<br> 
+Um abraço a todos e até o próximo projeto!
 
 
