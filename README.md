@@ -40,9 +40,9 @@ O mesmo, se encontra hospedado na plataforma do Heroku, junto com seu banco de d
 Basicamente, meu projeto é esse. Poderia ter deixado com um layout muito mais bonito, mais responsivo também, mas por questões de tempo, tive que fazer algo um pouco mais simples. Espero que gostem e 
 que de alguma forma, possa servir de exemplo. <br><br>
 
-Apesar de parecer simples, foi um projetinho bem desafiador hein! Achei que seria muuuuuito mais fácil de ser feito, mas quando comecei a de fato codifica-lo, me deparei 
+Apesar de parecer simples, foi um projetinho bem desafiador hein! Achei que seria muuuuuito mais fácil de ser feito, mas quando comecei a de fato codificá-lo, me deparei 
 com diversos problemas no qual, não fazia nem ideia de uma possível solução. <br>
-Maaaaaaaas com muita pesquisa, persistencia e café hehehe, acredito que eu tenha desenvolvido todas as funcionalidades que foram propostas no enunciado. Muito provavél que, algumas linhas do meu código, principalmente do beck-end, poderiam ser feita de uma forma muito mais simples, enxuta, mas com o conhecimento e lógica que adquiri até agora, foi a forma que eu encontrei para resolver os problemas propostos.<br><br>
+Maaaaaaaas com muita pesquisa, persistencia e café hehehe, acredito que eu tenha desenvolvido todas as funcionalidades que foram propostas no enunciado. Sei que, muito provavél, algumas linhas do meu código, principalmente do beck-end, poderiam ser feitas de uma forma muito mais simples, enxuta, mas com o conhecimento e lógica que adquiri até agora, foi a forma que eu encontrei para resolver os problemas propostos.<br><br>
 
 Isso é tudo pessoal!<br> 
 Esse texto já ficou bem grande, então fico por aqui.<br> 
