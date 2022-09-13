@@ -2,7 +2,7 @@
 
 <h3>Bem vindos ao projeto Lista de Lembretes!</h3>
 
-=> <a href="https://meus-lembretes.netlify.app/" target="_blank">CLIQUE AQUI PARA ACESSAR O PROJETO</a>
+=> <a href="https://meus-lembretes.netlify.app/" target="blank">CLIQUE AQUI PARA ACESSAR O PROJETO</a>
 
 É um software bastante simples, no qual, tem como objetivo, salvar algo que você precise lembrar. <br>
 O uso é bastante simples, você apenas precisa informar algo que precise lembrar e a data em que deseja ser lembrado.<br>
